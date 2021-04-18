@@ -1,4 +1,5 @@
-# acordeon
+# accordion-constructor
+Test task #1
 
 ## Project setup
 ```
